@@ -20,10 +20,6 @@ img{
     display: flex;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
-
-    
-
-
 }
 .menu ul  {
     list-style: none;
@@ -54,3 +50,9 @@ img{
 table, th, td {
     border: 1px solid white;
 } 
+
+.exp{
+    color: white;
+    text-align: center;
+    margin-top: 1in;
+}
